@@ -1,3 +1,9 @@
 img.logo {
     width: 100px;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
