@@ -7,3 +7,23 @@ header {
     justify-content: space-between;
 }
 
+ul {
+    list-style-type: none;
+}
+
+ul.toppage {
+    display: flex;
+}
+
+li { 
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+body {
+    
+}
