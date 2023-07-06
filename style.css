@@ -25,5 +25,10 @@ a {
 }
 
 body {
-    
+    font-family: 'Roboto', sans-serif;
 }
+
+img.firstpic {
+    width: 200px;
+}
+
