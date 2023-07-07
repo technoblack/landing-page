@@ -5,6 +5,7 @@ img.logo {
 header {
     display: flex;
     justify-content: space-between;
+    background-color: navy;
 }
 
 ul {
