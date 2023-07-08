@@ -33,3 +33,27 @@ img.firstpic {
     width: 200px;
 }
 
+img.handlepic {
+    height: 100px;
+    width: 100px;
+}
+
+img.shootingpic {
+    height: 100px;
+    width: 100px;
+}
+
+img.reboundingpic {
+    height: 100px;
+    width: 100px;
+}
+
+img.conditioningpic {
+    height: 100px;
+    width: 100px
+}
+
+.middle {
+    display: flex;
+    gap: 32px;
+}
