@@ -56,4 +56,5 @@ img.conditioningpic {
 .middle {
     display: flex;
     gap: 32px;
+    background-color: orange;
 }
